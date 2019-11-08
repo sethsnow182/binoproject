@@ -1,0 +1,14 @@
+2019-10-25 20:04:34: -- Analysis Started by On File Change, After Delay
+2019-10-25 20:04:35: Changes: 8, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 659
+2019-10-25 20:04:35: Left to Right: Copy File: 8 
+2019-10-25 20:04:35: == Sync Started by On File Change, After Delay
+2019-10-25 20:04:36: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1.png' (56,025)
+2019-10-25 20:04:38: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2.png' (444,840)
+2019-10-25 20:04:39: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3.png' (197,466)
+2019-10-25 20:04:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4.png' (345,306)
+2019-10-25 20:04:42: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/5.png' (352,958)
+2019-10-25 20:04:44: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/6.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/6.png' (314,238)
+2019-10-25 20:04:45: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/7.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/7.png' (330,977)
+2019-10-25 20:04:46: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/8.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/8.png' (224,304)
+2019-10-25 20:04:48: == Sync Complete. Time: 00:00:13, Speed: 201 KB/s, OK: 8, Errors: 0
+2019-10-25 20:04:48: 

@@ -1,0 +1,9 @@
+2019-11-07 09:31:39: -- Analysis Started by On File Change, After Delay
+2019-11-07 09:31:40: Changes: 3, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 728
+2019-11-07 09:31:40: Left to Right: Copy File: 3 
+2019-11-07 09:31:40: == Sync Started by On File Change, After Delay
+2019-11-07 09:31:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (40,140)
+2019-11-07 09:31:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (31,262)
+2019-11-07 09:31:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java/script.js' (2,238)
+2019-11-07 09:31:45: == Sync Complete. Time: 00:00:05, Speed: 23.9 KB/s, OK: 3, Errors: 0
+2019-11-07 09:31:45: 

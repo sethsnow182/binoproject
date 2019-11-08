@@ -1,0 +1,16 @@
+2019-10-30 15:30:37: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Bino_Adrian
+2019-10-30 15:30:42: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-30 15:30:42: Remote File System with No monitoring, disconnect
+2019-10-30 15:30:44: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-30 15:30:47: Changes: 6, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 680
+2019-10-30 15:30:47: Left to Right: Copy File: 6 
+2019-10-30 15:30:47: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-30 15:30:50: C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css: Source file has changed between Analyze and Sync from '[file] size=23,592 accu-time=2019-10-30 15:28:28 attr=Archive cktype=0' to 'size=23,598 time=2019-10-30 15:30:47', noted in source file state
+2019-10-30 15:30:50: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (23,592)
+2019-10-30 15:30:51: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Ellipse_pricing.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Ellipse_pricing.png' (2,629)
+2019-10-30 15:30:52: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/price.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/price.jpg' (25,886)
+2019-10-30 15:30:53: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/price_hover.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/price_hover.jpg' (27,855)
+2019-10-30 15:30:53: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Shadow.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Shadow.png' (2,485)
+2019-10-30 15:30:54: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (20,509)
+2019-10-30 15:30:57: == Sync Complete. Time: 00:00:10, Speed: 15.9 KB/s, OK: 6, Errors: 0
+2019-10-30 15:30:58: 

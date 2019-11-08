@@ -1,0 +1,117 @@
+2019-11-07 16:37:40: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Bino_Adrian
+2019-11-07 16:37:44: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-11-07 16:37:44: Remote File System with No monitoring, disconnect
+2019-11-07 16:37:46: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-11-07 16:37:47: R: State file does not exist: ftp://ftp.cluster021.hosting.ovh.net:21/www/_gsdata_/_file_state_v4._gs
+2019-11-07 16:37:48: /index.html: Warning: Older file to replace Newer file
+2019-11-07 16:37:48: Changes: 106, Conflicts: 0, CopyTime: 0, FixState: 686, Errors: 0, All: 793
+2019-11-07 16:37:48: Left to Right: Copy File: 84 Delete File: 22 
+2019-11-07 16:37:48: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-11-07 16:37:51: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/about.html'
+2019-11-07 16:37:51: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/contact.html'
+2019-11-07 16:37:51: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/main.css'
+2019-11-07 16:37:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/background.jpg'
+2019-11-07 16:37:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Cool Sky.jpg'
+2019-11-07 16:37:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/face.jpg'
+2019-11-07 16:37:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/face_small.jpg'
+2019-11-07 16:37:54: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/favicon-16x16.png'
+2019-11-07 16:37:54: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/favicon-32x32.png'
+2019-11-07 16:37:54: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/laptop.jpg'
+2019-11-07 16:37:54: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/portrait.jpg'
+2019-11-07 16:37:54: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/portrait_small.jpg'
+2019-11-07 16:37:55: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project1.jpg'
+2019-11-07 16:37:55: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project2.jpg'
+2019-11-07 16:37:55: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project3.jpg'
+2019-11-07 16:37:55: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project4.jpg'
+2019-11-07 16:37:56: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects/project5.jpg'
+2019-11-07 16:37:56: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/projects'
+2019-11-07 16:37:56: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/site.webmanifest'
+2019-11-07 16:37:57: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/js/main.js'
+2019-11-07 16:37:57: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/js'
+2019-11-07 16:37:57: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/work.html'
+2019-11-07 16:37:57: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.vscode'
+2019-11-07 16:37:57: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java'
+2019-11-07 16:37:58: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/.vscode/settings.json' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/.vscode/settings.json' (42)
+2019-11-07 16:37:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (40,114)
+2019-11-07 16:38:00: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1.png' (15,974)
+2019-11-07 16:38:00: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1_1.png' (405)
+2019-11-07 16:38:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2.jpg' (30,143)
+2019-11-07 16:38:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2.png' (120,082)
+2019-11-07 16:38:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2_1.png' (330)
+2019-11-07 16:38:04: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3.png' (49,009)
+2019-11-07 16:38:05: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3_1.png' (439)
+2019-11-07 16:38:06: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4.png' (75,100)
+2019-11-07 16:38:07: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4_1.png' (346)
+2019-11-07 16:38:08: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/5.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/5.jpg' (19,288)
+2019-11-07 16:38:09: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/5.png' (103,827)
+2019-11-07 16:38:10: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/6.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/6.png' (76,204)
+2019-11-07 16:38:11: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/7.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/7.png' (82,745)
+2019-11-07 16:38:12: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/7.png.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/7.png.jpg' (21,569)
+2019-11-07 16:38:13: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/8.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/8.png' (61,599)
+2019-11-07 16:38:14: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Accredited.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Accredited.png' (485)
+2019-11-07 16:38:15: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/after1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/after1.png' (157)
+2019-11-07 16:38:15: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/after2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/after2.png' (163)
+2019-11-07 16:38:16: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/arrow_left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_left.png' (476)
+2019-11-07 16:38:17: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/arrow_right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_right.png' (805)
+2019-11-07 16:38:18: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_1.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_1.jpg' (34,486)
+2019-11-07 16:38:19: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_2.jpg' (23,013)
+2019-11-07 16:38:20: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_3.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_3.jpg' (57,160)
+2019-11-07 16:38:21: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_4.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_4.jpg' (77,782)
+2019-11-07 16:38:22: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/bulb.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/bulb.jpg' (3,802)
+2019-11-07 16:38:22: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/CaseImage.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/CaseImage.jpg' (3,812)
+2019-11-07 16:38:23: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Curve.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Curve.png' (8,601)
+2019-11-07 16:38:24: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down Icon copy 2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy 2.png' (1,164)
+2019-11-07 16:38:25: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down Icon copy 3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy 3.png' (1,031)
+2019-11-07 16:38:26: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down Icon copy.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy.png' (852)
+2019-11-07 16:38:27: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down.png' (968)
+2019-11-07 16:38:27: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_1.png' (2,957)
+2019-11-07 16:38:28: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_2.png' (2,921)
+2019-11-07 16:38:29: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_3.png' (2,761)
+2019-11-07 16:38:30: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_4.png' (2,872)
+2019-11-07 16:38:31: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_5.png' (2,915)
+2019-11-07 16:38:31: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/facebook.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/facebook.png' (226)
+2019-11-07 16:38:32: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/facebook_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/facebook_hover.png' (1,719)
+2019-11-07 16:38:33: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Foreground.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Foreground.jpg' (44,835)
+2019-11-07 16:38:34: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/google plus.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/google plus.png' (521)
+2019-11-07 16:38:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/google plus_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/google plus_hover.png' (1,970)
+2019-11-07 16:38:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/left.png' (205)
+2019-11-07 16:38:36: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/left1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/left1.png' (254)
+2019-11-07 16:38:37: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/linkedin.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/linkedin.png' (362)
+2019-11-07 16:38:38: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/linkedin_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/linkedin_hover.png' (1,832)
+2019-11-07 16:38:38: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Logo.png' (713)
+2019-11-07 16:38:39: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Monitor.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Monitor.png' (67,816)
+2019-11-07 16:38:40: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Put Your Image.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Put Your Image.jpg' (40,992)
+2019-11-07 16:38:41: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Put Your Image2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Put Your Image2.jpg' (62,871)
+2019-11-07 16:38:42: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/PutYourImage3.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/PutYourImage3.jpg' (33,910)
+2019-11-07 16:38:43: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rectangle 13 copy 4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rectangle 13 copy 4.png' (456)
+2019-11-07 16:38:44: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rectangle_important.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rectangle_important.jpg' (593)
+2019-11-07 16:38:44: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/right.png' (204)
+2019-11-07 16:38:45: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/right1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/right1.png' (260)
+2019-11-07 16:38:46: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Robo-min.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo-min.png' (984)
+2019-11-07 16:38:48: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Robo._hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo._hover.png' (5,274)
+2019-11-07 16:38:49: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Robo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo.png' (1,070)
+2019-11-07 16:38:49: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Robo1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo1.png' (1,799)
+2019-11-07 16:38:50: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rounded Rectangle 3 copy 5.png' (118)
+2019-11-07 16:38:51: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/rss.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/rss.png' (566)
+2019-11-07 16:38:52: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/rss_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/rss_hover.png' (2,003)
+2019-11-07 16:38:52: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/services.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/services.png' (204)
+2019-11-07 16:38:53: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/skype.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/skype.png' (574)
+2019-11-07 16:38:54: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/skype_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/skype_hover.png' (2,027)
+2019-11-07 16:38:55: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat2.png' (1,160)
+2019-11-07 16:38:56: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat3.png' (1,323)
+2019-11-07 16:38:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat4.png' (1,299)
+2019-11-07 16:38:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat5.png' (1,118)
+2019-11-07 16:38:58: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat_1.png' (1,318)
+2019-11-07 16:38:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/status.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/status.jpg' (72,730)
+2019-11-07 16:39:00: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Team.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Team.jpg' (25,230)
+2019-11-07 16:39:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/tumblr.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tumblr.png' (277)
+2019-11-07 16:39:02: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/tumblr_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/tumblr_hover.png' (1,773)
+2019-11-07 16:39:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/twitter.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/twitter.png' (2,195)
+2019-11-07 16:39:04: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/twitter_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/twitter_hover.png' (2,241)
+2019-11-07 16:39:05: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/vimeo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/vimeo.png' (471)
+2019-11-07 16:39:06: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/vimeo_hover.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/vimeo_hover.png' (1,949)
+2019-11-07 16:39:07: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (31,262)
+2019-11-07 16:39:08: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/jquery3.4.1.min.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java/jquery3.4.1.min.js' (88,145)
+2019-11-07 16:39:09: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java/script.js' (2,238)
+2019-11-07 16:39:10: == Sync Complete. Time: 00:01:22, Speed: 95.2 KB/s, OK: 792, Errors: 0
+2019-11-07 16:39:10: 

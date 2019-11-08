@@ -1,0 +1,118 @@
+2019-10-25 13:37:26: == Sync Started by User Command
+2019-10-25 13:37:27: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian'
+2019-10-25 13:37:27: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/css'
+2019-10-25 13:37:27: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img'
+2019-10-25 13:37:27: Create Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/java'
+2019-10-25 13:37:28: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/css/style.css' (10,051)
+2019-10-25 13:37:29: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/1.png' (593)
+2019-10-25 13:37:29: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/2.png' (492)
+2019-10-25 13:37:30: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/3.png' (734)
+2019-10-25 13:37:31: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/4.png' (468)
+2019-10-25 13:37:31: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/after1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/after1.png' (257)
+2019-10-25 13:37:32: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Down.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Down.png' (2,711)
+2019-10-25 13:37:33: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Foreground.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Foreground.jpg' (633,718)
+2019-10-25 13:37:34: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/left.png' (462)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:34: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/left1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/left1.png' (488)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:34: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Logo.png' (1,276)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:34: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Monitor.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Monitor.png' (188,589)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:34: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/right.png' (444)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/right1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/right1.png' (422)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' (133)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/index.html' (7,447)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/java/jquery3.4.1.min.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/java/jquery3.4.1.min.js' (88,145)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:35: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/Bino_Adrian/java/script.js' (203)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:36: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/css/style.css' (12,360)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:36: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/1.png' (593)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:36: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/2.png' (492)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:36: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/3.png' (734)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:37: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/4.png' (468)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:37: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/after1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/after1.png' (257)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:37: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/Down.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/Down.png' (2,711)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:37: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/Foreground.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/Foreground.jpg' (633,718)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:37: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/left.png' (462)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:38: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/left1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/left1.png' (488)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:38: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/Logo.png' (1,276)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:38: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/Monitor.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/Monitor.png' (188,589)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:38: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/right.png' (444)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:38: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/right1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/right1.png' (422)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:39: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' (133)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:39: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/img/services.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/img/services.png' (891,727)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:39: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/index.html' (8,240)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:39: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/java/jquery3.4.1.min.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/java/jquery3.4.1.min.js' (88,145)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:39: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/Bino_Adrian/java/script.js' (203)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:40: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/css/style.css' (11,893)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:40: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/1.png' (593)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:40: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/2.png' (492)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:40: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/3.png' (734)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/4.png' (468)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/after1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/after1.png' (257)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Down.png' (2,711)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:41: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Foreground.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Foreground.jpg' (633,718)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/left.png' (462)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/left1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/left1.png' (488)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Logo.png' (1,276)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Monitor.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Monitor.png' (188,589)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:42: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/right.png' (444)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/right1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/right1.png' (422)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' (133)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/services.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/services.png' (891,727)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/index.html' (10,441)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:43: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/jquery3.4.1.min.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/java/jquery3.4.1.min.js' (88,145)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:44: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/java/script.js' (203)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:44: Save State File 
+- ERROR: Cannot upload temp state file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:44: == Sync Complete. Time: 00:00:20, Speed: 276 KB/s, OK: 602, Errors: 49
+2019-10-25 13:37:44: 
+2019-10-25 13:37:44: Cannot upload log file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-25 13:37:56: Stop requested by Stop By User: #1
+2019-10-25 13:37:56: Socket of ftp.cluster021.hosting.ovh.net:21 disconnected from OUTside. owner=531c
+2019-10-25 13:37:56: receiving line: [receiving data ftp.cluster021.hosting.ovh.net:21]: Interrupted
+2019-10-25 13:37:56: 

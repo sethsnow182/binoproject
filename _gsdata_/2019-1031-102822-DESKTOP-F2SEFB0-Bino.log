@@ -1,0 +1,20 @@
+2019-10-31 10:28:50: == Sync Started by User Command
+2019-10-31 10:28:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/hover_gallery.png'
+2019-10-31 10:28:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/price.jpg'
+2019-10-31 10:28:53: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/price_hover.jpg'
+2019-10-31 10:28:54: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (28,466)
+2019-10-31 10:28:55: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Accredited.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Accredited.png' (485)
+2019-10-31 10:28:56: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Curve.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Curve.png' (20,369)
+2019-10-31 10:28:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_1.png' (6,522)
+2019-10-31 10:28:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_2.png' (6,327)
+2019-10-31 10:28:58: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_3.png' (5,851)
+2019-10-31 10:28:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_4.png' (7,584)
+2019-10-31 10:29:00: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Face_5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Face_5.png' (6,432)
+2019-10-31 10:29:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/imagination.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/imagination.png' (14,544)
+2019-10-31 10:29:02: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rectangle 13 copy 4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rectangle 13 copy 4.png' (1,005)
+2019-10-31 10:29:02: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rectangle_important.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Rectangle_important.jpg' (1,269)
+2019-10-31 10:29:03: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Robo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Robo.png' (4,368)
+2019-10-31 10:29:04: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Team.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Team.jpg' (235,927)
+2019-10-31 10:29:05: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (23,994)
+2019-10-31 10:29:07: == Sync Complete. Time: 00:00:18, Speed: 27.2 KB/s, OK: 17, Errors: 0
+2019-10-31 10:29:07: 

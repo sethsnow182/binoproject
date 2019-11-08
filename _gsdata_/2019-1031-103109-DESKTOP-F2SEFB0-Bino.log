@@ -1,0 +1,7 @@
+2019-10-31 10:31:12: -- Analysis Started by On File Change Incremental
+2019-10-31 10:31:14: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 692
+2019-10-31 10:31:14: Left to Right: Copy File: 1 
+2019-10-31 10:31:14: == Sync Started by On File Change Incremental
+2019-10-31 10:31:16: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (28,513)
+2019-10-31 10:31:18: == Sync Complete. Time: 00:00:04, Speed: 13.9 KB/s, OK: 1, Errors: 0
+2019-10-31 10:31:18: 

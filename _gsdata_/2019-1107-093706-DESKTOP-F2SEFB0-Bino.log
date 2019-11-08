@@ -1,0 +1,7 @@
+2019-11-07 09:37:09: -- Analysis Started by On File Change Incremental
+2019-11-07 09:37:12: Changes: 2 (6), Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 731
+2019-11-07 09:37:12: Left to Right: Rename/Move File/Folder: 2 
+2019-11-07 09:37:12: == Sync Started by On File Change Incremental
+2019-11-07 09:37:12: Move Folder ftp://ftp.cluster021.hosting.ovh.net:21/www/java -> ftp://ftp.cluster021.hosting.ovh.net:21/www/js
+2019-11-07 09:37:14: == Sync Complete. Time: 00:00:02, Speed: 0 bytes/s, OK: 6, Errors: 0
+2019-11-07 09:37:15: 

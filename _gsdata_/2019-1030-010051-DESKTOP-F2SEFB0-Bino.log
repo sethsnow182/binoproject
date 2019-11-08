@@ -1,0 +1,16 @@
+2019-10-30 01:00:51: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Bino_Adrian
+2019-10-30 01:00:54: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-30 01:00:54: Remote File System with No monitoring, disconnect
+2019-10-30 01:00:55: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-30 01:00:58: Changes: 7, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 676
+2019-10-30 01:00:58: Left to Right: Copy File: 7 
+2019-10-30 01:00:58: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-30 01:00:59: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (21,341)
+2019-10-30 01:01:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Ellipse 1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Ellipse 1.png' (2,461)
+2019-10-30 01:01:02: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat2.png' (4,006)
+2019-10-30 01:01:03: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat3.png' (4,232)
+2019-10-30 01:01:04: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat4.png' (4,298)
+2019-10-30 01:01:04: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat5.png' (4,112)
+2019-10-30 01:01:05: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat_1.png' (4,303)
+2019-10-30 01:01:07: == Sync Complete. Time: 00:00:09, Speed: 9.29 KB/s, OK: 7, Errors: 0
+2019-10-30 01:01:07: 

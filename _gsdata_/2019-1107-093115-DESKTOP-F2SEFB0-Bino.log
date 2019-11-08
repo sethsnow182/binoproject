@@ -1,0 +1,7 @@
+2019-11-07 09:31:18: -- Analysis Started by On File Change, After Delay
+2019-11-07 09:31:19: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 728
+2019-11-07 09:31:19: Left to Right: Delete File: 1 
+2019-11-07 09:31:19: == Sync Started by On File Change, After Delay
+2019-11-07 09:31:20: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/arrow_right.png'
+2019-11-07 09:31:21: == Sync Complete. Time: 00:00:02, Speed: 0 bytes/s, OK: 1, Errors: 0
+2019-11-07 09:31:21: 

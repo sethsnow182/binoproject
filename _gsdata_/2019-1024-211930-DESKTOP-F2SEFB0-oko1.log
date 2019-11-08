@@ -1,0 +1,5 @@
+2019-10-24 21:20:09: == Sync Started by User Command
+2019-10-24 21:20:11: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_/_insync_v4.gsl'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-24 21:20:12: == Sync Complete. Time: 00:00:04, Speed: 0 bytes/s, OK: 0, Errors: 1
+2019-10-24 21:20:12: 

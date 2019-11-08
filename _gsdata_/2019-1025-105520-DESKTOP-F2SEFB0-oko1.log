@@ -1,0 +1,8 @@
+2019-10-25 10:55:56: == Sync Started by User Command
+2019-10-25 10:56:02: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (12,406)
+2019-10-25 10:56:06: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/services.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/services.png' (891,727)
+2019-10-25 10:56:07: C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html: Source file has changed between Analyze and Sync from '[file] size=7,510 accu-time=2019-10-25 10:54:14 attr=Archive cktype=0' to 'size=7,510 time=2019-10-25 10:55:48', noted in source file state
+2019-10-25 10:56:07: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (7,510)
+2019-10-25 10:56:09: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/java/script.js' (203)
+2019-10-25 10:56:12: == Sync Complete. Time: 00:00:17, Speed: 63.6 KB/s, OK: 4, Errors: 0
+2019-10-25 10:56:12: 

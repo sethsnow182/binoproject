@@ -1,0 +1,22 @@
+2019-10-25 14:48:45: == Sync Started by User Command
+2019-10-25 14:48:48: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/css/style.css' (11,895)
+2019-10-25 14:48:49: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/1.png' (593)
+2019-10-25 14:48:50: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/2.png' (492)
+2019-10-25 14:48:51: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/3.png' (734)
+2019-10-25 14:48:52: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/4.png' (468)
+2019-10-25 14:48:53: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/after1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/after1.png' (257)
+2019-10-25 14:48:53: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Down.png' (2,711)
+2019-10-25 14:48:55: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Foreground.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Foreground.jpg' (633,718)
+2019-10-25 14:48:56: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/left.png' (462)
+2019-10-25 14:48:57: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/left1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/left1.png' (488)
+2019-10-25 14:48:58: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Logo.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Logo.png' (1,276)
+2019-10-25 14:49:00: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Monitor.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Monitor.png' (188,589)
+2019-10-25 14:49:02: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/right.png' (444)
+2019-10-25 14:49:03: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/right1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/right1.png' (422)
+2019-10-25 14:49:04: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png' (133)
+2019-10-25 14:49:07: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/services.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/img/services.png' (891,727)
+2019-10-25 14:49:08: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/index.html' (10,586)
+2019-10-25 14:49:10: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/jquery3.4.1.min.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/java/jquery3.4.1.min.js' (88,145)
+2019-10-25 14:49:11: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/java/script.js' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/Bino_Adrian/java/script.js' (203)
+2019-10-25 14:49:12: == Sync Complete. Time: 00:00:28, Speed: 69.5 KB/s, OK: 19, Errors: 0
+2019-10-25 14:49:12: 

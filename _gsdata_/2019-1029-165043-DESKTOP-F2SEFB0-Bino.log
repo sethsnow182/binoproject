@@ -1,0 +1,122 @@
+2019-10-29 16:50:51: == Sync Started by User Command
+2019-10-29 16:50:52: Error locking folder: uploading lock file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-29 16:50:52: 
+2019-10-29 16:50:52: Cannot upload log file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-29 16:51:36: == Sync Started by User Command
+2019-10-29 16:51:37: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/_'
+2019-10-29 16:51:37: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/css/style.css'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/2.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/3.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/4.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/after1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/Down.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/Foreground.jpg'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/left.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/left1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/Logo.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/Monitor.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/right.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:38: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/right1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/index.html'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/java/jquery3.4.1.min.js'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/java/script.js'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:39: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/css/style.css'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/2.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/3.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/4.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/after1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Down.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Foreground.jpg'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/left.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/left1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Logo.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Monitor.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:40: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/right.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/right1.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/services.png'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/index.html'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/java/jquery3.4.1.min.js'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:41: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/java/script.js'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-29 16:51:42: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/unsplash.jpg'
+2019-10-29 16:51:42: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/css'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/Bino_Adrian/css: Server says: Can't change directory to /www/Bino_Adrian/Bino_Adrian: No such file or directory
+2019-10-29 16:51:42: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/img'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/Bino_Adrian/img: Server says: Can't change directory to /www/Bino_Adrian/Bino_Adrian: No such file or directory
+2019-10-29 16:51:42: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian/java'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/Bino_Adrian/java: Server says: Can't change directory to /www/Bino_Adrian/Bino_Adrian: No such file or directory
+2019-10-29 16:51:43: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/Bino_Adrian'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/Bino_Adrian: Server says: Can't change directory to /www/Bino_Adrian: No such file or directory
+2019-10-29 16:51:44: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/css'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/css: Server says: Can't change directory to /www/Bino_Adrian: No such file or directory
+2019-10-29 16:51:44: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/img: Server says: Can't change directory to /www/Bino_Adrian: No such file or directory
+2019-10-29 16:51:45: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/java'
+- ERROR: Cannot delete folder: chdir when deleting: /www/Bino_Adrian/java: Server says: Can't change directory to /www/Bino_Adrian: No such file or directory
+2019-10-29 16:51:45: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian'
+- ERROR: Cannot delete folder: Server says: Can't remove directory: No such file or directory
+2019-10-29 16:51:46: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (16,875)
+2019-10-29 16:51:47: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1.png' (17,409)
+2019-10-29 16:51:48: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/1_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/1_1.png' (472)
+2019-10-29 16:51:49: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2.png' (129,968)
+2019-10-29 16:51:50: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/2_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/2_1.png' (378)
+2019-10-29 16:51:51: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3.png' (62,392)
+2019-10-29 16:51:51: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/3_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/3_1.png' (508)
+2019-10-29 16:51:52: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4.png' (79,875)
+2019-10-29 16:51:53: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/4_1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/4_1.png' (397)
+2019-10-29 16:51:54: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/5.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/5.png' (125,469)
+2019-10-29 16:51:55: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/6.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/6.png' (92,461)
+2019-10-29 16:51:56: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/7.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/7.png' (98,384)
+2019-10-29 16:51:57: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/8.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/8.png' (67,348)
+2019-10-29 16:51:58: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/after1.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/after1.png' (165)
+2019-10-29 16:51:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/CaseImage.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/CaseImage.jpg' (3,979)
+2019-10-29 16:52:00: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down Icon copy 2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy 2.png' (1,325)
+2019-10-29 16:52:00: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down Icon copy 3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy 3.png' (1,231)
+2019-10-29 16:52:01: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down Icon copy.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down Icon copy.png' (961)
+2019-10-29 16:52:02: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Down.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Down.png' (1,107)
+2019-10-29 16:52:03: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Foreground.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Foreground.jpg' (117,380)
+2019-10-29 16:52:04: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/hover_gallery.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/hover_gallery.png' (136)
+2019-10-29 16:52:05: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Put Your Image2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Put Your Image2.jpg' (339,871)
+2019-10-29 16:52:06: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (14,378)
+2019-10-29 16:52:07: == Sync Complete. Time: 00:00:32, Speed: 40.4 KB/s, OK: 25, Errors: 45
+2019-10-29 16:52:07: 

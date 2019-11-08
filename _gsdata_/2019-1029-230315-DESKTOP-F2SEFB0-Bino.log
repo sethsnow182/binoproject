@@ -1,0 +1,11 @@
+2019-10-29 23:03:15: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Bino_Adrian
+2019-10-29 23:03:18: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-29 23:03:18: Remote File System with No monitoring, disconnect
+2019-10-29 23:03:20: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-29 23:03:23: Changes: 2, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 669
+2019-10-29 23:03:23: Left to Right: Copy File: 2 
+2019-10-29 23:03:23: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-29 23:03:25: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (20,689)
+2019-10-29 23:03:26: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (17,782)
+2019-10-29 23:03:28: == Sync Complete. Time: 00:00:05, Speed: 12.5 KB/s, OK: 2, Errors: 0
+2019-10-29 23:03:28: 

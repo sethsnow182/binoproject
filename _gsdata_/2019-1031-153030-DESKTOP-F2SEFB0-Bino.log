@@ -1,0 +1,24 @@
+2019-10-31 15:30:31: On File Change Monitoring started on file:///~Adrian/Desktop/HTML + CSS/Bino_Adrian
+2019-10-31 15:30:34: File Monitoring not available on: ftp://ftp.cluster021.hosting.ovh.net:21/www
+2019-10-31 15:30:34: Remote File System with No monitoring, disconnect
+2019-10-31 15:30:38: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-31 15:30:46: Changes: 11, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 701
+2019-10-31 15:30:46: Left to Right: Copy File: 11 
+2019-10-31 15:30:46: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
+2019-10-31 15:30:49: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (31,922)
+2019-10-31 15:30:51: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/after2.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/after2.png' (238)
+2019-10-31 15:30:52: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/arrow_left.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_left.png' (660)
+2019-10-31 15:30:54: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/arrow_right.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_right.png' (805)
+2019-10-31 15:30:55: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/arrow_right.png.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/arrow_right.png.jpg' (2,390)
+2019-10-31 15:30:57: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/bbb-logo-accredited.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/bbb-logo-accredited.png' (5,755)
+2019-10-31 15:30:59: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_1.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_1.jpg' (147,787)
+2019-10-31 15:31:01: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_2.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_2.jpg' (114,786)
+2019-10-31 15:31:05: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_3.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_3.jpg' (142,623)
+2019-10-31 15:31:07: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/Blog_4.jpg' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/Blog_4.jpg' (279,971)
+2019-10-31 15:31:08: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/index.html' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/index.html' (25,912)
+- ERROR: Error copying file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-31 15:31:09: Save State File 
+- ERROR: Cannot upload temp state file: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-31 15:31:09: Cannot Recycle: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-31 15:31:12: cannot start transfer: 553: Can't open that file: Disk quota exceeded
+2019-10-31 15:31:12: 

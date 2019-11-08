@@ -1,0 +1,33 @@
+2019-10-24 21:01:03: == Sync Started by User Command
+2019-10-24 21:01:06: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_/2019-1024-205713-DESKTOP-F2SEFB0-oko1.log'
+2019-10-24 21:01:06: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_/_file_state_v4._gs'
+2019-10-24 21:01:06: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_/_insync_v4.gsl'
+- ERROR: cannot RNFR: Sorry, but that file doesn't exist
+2019-10-24 21:01:07: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/css/style.css'
+2019-10-24 21:01:07: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/css'
+2019-10-24 21:01:07: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/1.png'
+2019-10-24 21:01:07: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/2.png'
+2019-10-24 21:01:08: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/3.png'
+2019-10-24 21:01:09: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/4.png'
+2019-10-24 21:01:09: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/after1.png'
+2019-10-24 21:01:09: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Down.png'
+2019-10-24 21:01:09: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Foreground.jpg'
+2019-10-24 21:01:10: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/left.png'
+2019-10-24 21:01:10: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/left1.png'
+2019-10-24 21:01:10: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Logo.png'
+2019-10-24 21:01:10: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Monitor.png'
+2019-10-24 21:01:10: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/right.png'
+2019-10-24 21:01:10: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/right1.png'
+2019-10-24 21:01:11: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img/Rounded Rectangle 3 copy 5.png'
+2019-10-24 21:01:11: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/img'
+2019-10-24 21:01:11: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/index.html'
+2019-10-24 21:01:12: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/java/jquery3.4.1.min.js'
+2019-10-24 21:01:12: Delete File 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/java/script.js'
+2019-10-24 21:01:12: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/java'
+2019-10-24 21:01:13: Deleted File: ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_/lock.gsl
+2019-10-24 21:01:13: Deleted Folder: ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_
+2019-10-24 21:01:13: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian/_gsdata_'
+2019-10-24 21:01:13: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www/Bino_Adrian'
+2019-10-24 21:01:13: Delete Folder 'ftp://ftp.cluster021.hosting.ovh.net:21/www'
+2019-10-24 21:01:14: == Sync Complete. Time: 00:00:12, Speed: 40.0 KB/s, OK: 49, Errors: 1
+2019-10-24 21:01:15: 

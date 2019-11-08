@@ -1,0 +1,7 @@
+2019-10-25 20:17:31: -- Analysis Started by On File Change, After Delay
+2019-10-25 20:17:32: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 659
+2019-10-25 20:17:32: Left to Right: Copy File: 1 
+2019-10-25 20:17:32: == Sync Started by On File Change, After Delay
+2019-10-25 20:17:33: Copy Over 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/css/style.css' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/css/style.css' (13,729)
+2019-10-25 20:17:34: == Sync Complete. Time: 00:00:02, Speed: 13.4 KB/s, OK: 1, Errors: 0
+2019-10-25 20:17:35: 

@@ -1,0 +1,7 @@
+2019-10-30 00:10:04: -- Analysis Started by On File Change, After Delay
+2019-10-30 00:10:05: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 673
+2019-10-30 00:10:05: Left to Right: Copy File: 1 
+2019-10-30 00:10:05: == Sync Started by On File Change, After Delay
+2019-10-30 00:10:06: Copy New 'C:/Users/Adrian/Desktop/HTML + CSS/Bino_Adrian/img/stat3.png' -> 'ftp://ftp.cluster021.hosting.ovh.net:21/www/img/stat3.png' (467)
+2019-10-30 00:10:07: == Sync Complete. Time: 00:00:02, Speed: 467 bytes/s, OK: 1, Errors: 0
+2019-10-30 00:10:07: 
