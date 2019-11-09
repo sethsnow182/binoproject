@@ -21,19 +21,32 @@ function stickyHeader() {
 
 */
 
+
+
 //HEADER
     window.onscroll = function() {myFunction()};
-    
-    var navbar = document.getElementById("header");
+    var prev = document.querySelector(".carousel-control-prev");
+    var next = document.querySelector(".carousel-control-next");
+    var car = document.querySelector(".container_extra");
+    var navbar = document.querySelector("#header");
     var sticky = navbar.offsetTop;
     
 function myFunction() {
     if (window.pageYOffset >= 1) {
         navbar.classList.add("sticky")
+        car.classList.add("stick")
+        prev.classList.add("new")
+        next.classList.add("new1")
     } else {
-        navbar.classList.remove("sticky");
+        navbar.classList.remove("sticky")
+        car.classList.remove("stick")
+        prev.classList.remove("new")
+        next.classList.remove("new1")
     }
 }
+
+//Carousel
+
 
 
 
