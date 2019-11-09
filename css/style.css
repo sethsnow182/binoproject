@@ -108,7 +108,7 @@ body {
 
 #header {
     padding-top: 20px;
-    transition: background-color 500ms linear;
+    transition: all 500ms linear;
     padding-bottom: 20px;
     
 }
@@ -122,9 +122,11 @@ body {
     overflow: hidden;
     background-color: rgba(231, 76, 60, 1);
     padding-bottom: 20px;
+    transition: all 500ms linear;
     
     
     }
+
 
 #header.sticky li a:hover {
     color: #2f302f;
@@ -145,9 +147,6 @@ body {
 /* NAVIGATION */
 
 @media (min-width: 768px) {
-    .logo {
-    /* flex: 0 0 30%; */
-}
     #navigation {
     flex: 0 0 70%;
     display: flex;
@@ -158,9 +157,6 @@ body {
 }
 
 @media (min-width: 992px) {
-.logo {
-    /* flex: 0 0 40%; */
-}
 
 #navigation {
     display:flex;
@@ -275,9 +271,39 @@ body {
 }
 /* CAROUSEL */
 
-#carousel .carousel-item {
-    padding-top: 200px;
-}
+@media (min-width: 0px) {
+    .container_extra {
+        padding-top: 0px;
+    }
+
+    .container_extra.stick {
+        padding-top: 92px;
+    }
+} 
+
+@media (min-width: 576px) {
+    .container_extra {
+        margin: 0 60px;
+        position: relative;
+    }
+} 
+
+@media (min-width: 768px) {
+    .container_extra {
+        margin: 0 100px;
+    }
+} 
+
+@media (min-width: 1200px) {
+    .container_extra {
+        padding-top: 200px;
+    }
+
+    .container_extra.stick {
+        padding-top: 292px;
+    }
+} 
+
 
 #carousel .button {
     display: flex;
@@ -336,14 +362,14 @@ body {
 }
 
 @media (min-width: 0px) {
-    #carousel .carousel-control-prev {
+    carousel-control-prev {
     width: 45px;
     height: 45px;
     left: 5%;
     top: 45%;
 }
 
-#carousel .carousel-control-next {
+.carousel-control-next {
     width: 45px;
     height: 45px;
     right: 5%;
@@ -351,20 +377,26 @@ body {
     }
 }
 
-@media (min-width: 1200px) {
-    #carousel .carousel-control-prev {
+@media (min-width: 0px) {
+    .carousel-control-prev {
     width: 45px;
     height: 45px;
     left: 5%;
-    top: 60%;
+    top: 45%;
     }
-    #carousel .carousel-control-next {
+
+    .carousel-control-prev.new {
+        /* top: calc(60% + 41px); */
+    }
+    .carousel-control-next {
     width: 45px;
     height: 45px;
     right: 5%;
-    top: 60%;
+    top: 45%;
     }
-}
+    .carousel-control-next.new1 {
+        /* top: calc(60% + 41px); */
+    }
 
 .carousel-control-prev-icon {
     background-image: url(../img/left.png);
@@ -389,11 +421,12 @@ body {
     width: 45px;
     height: 45px;
 }
+}
 
 /* Carousel_Media */
 
 @media (min-width: 0px) {
-    #carousel {
+    .container_extra #carousel {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -420,16 +453,17 @@ body {
 }
 
 @media (max-width: 575px) {
-    #carousel .carousel-control-prev
+    .carousel-control-prev
     {
         display: none;
     }
-    #carousel .carousel-control-next {
+    .carousel-control-next {
         display: none;
     }
     #carousel p {
         padding: 0px 50px;
     }
+
     #carousel .button {
     display: flex;
     justify-content: center;
@@ -441,7 +475,7 @@ body {
     }
 }
 
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
 #carousel {
     margin: 0;
     }
@@ -451,7 +485,7 @@ body {
     margin-top: -40px;
     margin-bottom: 15px;
     }
-}
+} */
 
 /*SCROLL*/
 
@@ -802,10 +836,6 @@ justify-content: center;
 
 
 /* PORTFOLIO */
-
-#portfolio {
-
-}
 
 #portfolio .portfo_intro {
     height: 100%;
@@ -1867,14 +1897,8 @@ justify-content: center;
     justify-content: center;
 }
 
-#clients .gallery .rectangle .inside {
-    background-image: url(../img/Robo._hover.png);
-    width: 155px;
-    height: 104px;
-}
-
 #clients .gallery .rectangle:hover {
-    background-color:;
+    background-color: #e74c3c;
 }
 
 #clients h2 {
